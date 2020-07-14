@@ -1,12 +1,6 @@
 {
 	"type":"Topology","objects":{"collection":
-	{"type":"GeometryCollection","geometries":
-	[
-	{"type":"Polygon","id":0,"properties":{"fips":01001,"state_fips":"01","county_fips":"001","name":"Autauga","lsad":"County","census_area":594.436,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[0,1,2,3,4]]},
-
-	{"type":"Polygon","id":1,"properties":{"fips":01009,"state_fips":"01","county_fips":"009","name":"Blount","lsad":"County","census_area":644.776,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[5,6,7,8,9,10]]},
-	
-	{"type":"Polygon","id":2,"properties":{"fips":01017,"state_fips":"01","county_fips":"017","name":"Chambers","lsad":"County","census_area":596.531,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[11,12,13,14,15]]},
+	{"type":"GeometryCollection","geometries":[	{"type":"Polygon","id":0,"properties":{"fips":01001,"state_fips":"01","county_fips":"001","name":"Autauga","lsad":"County","census_area":594.436,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[0,1,2,3,4]]},{"type":"Polygon","id":1,"properties":{"fips":01009,"state_fips":"01","county_fips":"009","name":"Blount","lsad":"County","census_area":644.776,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[5,6,7,8,9,10]]},{"type":"Polygon","id":2,"properties":{"fips":01017,"state_fips":"01","county_fips":"017","name":"Chambers","lsad":"County","census_area":596.531,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[11,12,13,14,15]]},
 	
 	{"type":"Polygon","id":3,"properties":{"fips":01021,"state_fips":"01","county_fips":"021","name":"Chilton","lsad":"County","census_area":692.854,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[16,17,-3,18,19,20,21]]},
 	
@@ -1667,11 +1661,8 @@
 	{"type":"Polygon","id":831,"properties":{"fips":16071,"state_fips":16,"county_fips":"071","name":"Oneida","lsad":"County","census_area":1200.061,"state":"Idaho","iso_3166_2":"ID"},"arcs":[[3977,3978,3979,3980,3981,3982]]},
 
 	{"type":"Polygon","id":832,"properties":{"fips":16077,"state_fips":16,"county_fips":"077","name":"Power","lsad":"County","census_area":1404.244,"state":"Idaho","iso_3166_2":"ID"},"arcs":[[3983,3984,3985,-3981,3986]]},
-
 	{"type":"Polygon","id":833,"properties":{"fips":16079,"state_fips":16,"county_fips":"079","name":"Shoshone","lsad":"County","census_area":2629.665,"state":"Idaho","iso_3166_2":"ID"},"arcs":[[3987,3988,3989,-490,-3884,3990,-3890]]},
-
 	{"type":"Polygon","id":834,"properties":{"fips":16083,"state_fips":16,"county_fips":"083","name":"Twin Falls","lsad":"County","census_area":1921.213,"state":"Idaho","iso_3166_2":"ID"},"arcs":[[3991,3992,3993,3994,3995,3996]]},
-
 	{"type":"Polygon","id":835,"properties":{"fips":17003,"state_fips":17,"county_fips":"003","name":"Alexander","lsad":"County","census_area":235.509,"state":"Illinois","iso_3166_2":"IL"},"arcs":[[3997,3998,3999,4000,4001,4002]]},
 	{"type":"Polygon","id":836,"properties":{"fips":17007,"state_fips":17,"county_fips":"007","name":"Boone","lsad":"County","census_area":280.719,"state":"Illinois","iso_3166_2":"IL"},"arcs":[[4003,4004,4005,4006,4007]]},
 	{"type":"Polygon","id":837,"properties":{"fips":17011,"state_fips":17,"county_fips":"011","name":"Bureau","lsad":"County","census_area":869.031,"state":"Illinois","iso_3166_2":"IL"},"arcs":[[-645,4008,-664,4009,-688,4010,-700]]},
