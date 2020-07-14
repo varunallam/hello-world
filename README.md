@@ -1,8 +1,9 @@
 {
 	"type":"Topology","objects":{"collection":
-	{"type":"GeometryCollection","geometries":[
+	{"type":"GeometryCollection","geometries":
+	[
 	{"type":"Polygon","id":0,"properties":{"fips":01001,"state_fips":"01","county_fips":"001","name":"Autauga","lsad":"County","census_area":594.436,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[0,1,2,3,4]]},
-	
+
 	{"type":"Polygon","id":1,"properties":{"fips":01009,"state_fips":"01","county_fips":"009","name":"Blount","lsad":"County","census_area":644.776,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[5,6,7,8,9,10]]},
 	
 	{"type":"Polygon","id":2,"properties":{"fips":01017,"state_fips":"01","county_fips":"017","name":"Chambers","lsad":"County","census_area":596.531,"state":"Alabama","iso_3166_2":"AL"},"arcs":[[11,12,13,14,15]]},
